@@ -1,6 +1,24 @@
 # Service provider finder app
+
 ## ✔️This app  uses Firebae Authentication and Firebase Realtime Database
-<br>
+---
+
+<br />
+
+
+### Service Provider Finder App is a comprehensive React Native Android application designed to connect users with reliable service providers. Whether you need a plumber, electrician, or any other professional, our app makes it easy to find and hire service providers in your area. 
+
+### With our app, you can effortlessly 
+- #### send emails,
+- #### contact service providers by calling, and
+- #### utilize advanced filtering options, including subcity filters.
+
+### Experience the convenience and efficiency of the Service Provider Finder App for all your service needs.
+---
+
+
+<br />
+<br />
 
 
 ## 🔑 Environment Variables
@@ -10,8 +28,10 @@
 - #### `utils.firebase.js ` - holds firebase configuration file
 - #### `utils/http.js ` - holds firebase databse link
 
-<br>
-<hr>
+<hr/>
+
+
+<br />
 
 ## 🧰 Getting Started
 
@@ -32,15 +52,18 @@ If the installation was successful, you should be able to run the following comm
     6.1.0 // yours may be different
 ---
 
+<br />
+
 ### 🏃 Run
 
 ##### run the following command :
      npm start
 
+#### After runnig the above command, you can interact scan with QR code and interact with the application.
 <br>
 
-After runnig the above command, you can interact scan with QR code and interact with the application.
-<br>
+
+<br />
 
 ## Here are some screen shots of the projects 
 <hr>
@@ -56,26 +79,32 @@ After runnig the above command, you can interact scan with QR code and interact 
 <img src="https://user-images.githubusercontent.com/84455217/221398245-5111804c-4d06-438b-898e-15e273103d3e.jpg" height=450px >
 <hr>
 
+<br />
+
+
 ## Filter by subcity & Service Categories 
 
 <img src="https://user-images.githubusercontent.com/84455217/221398547-5130d970-6561-4ffb-a6c5-d61253fb327f.jpg" height=450px >
 <img src="https://user-images.githubusercontent.com/84455217/221398542-dade7be8-1df1-43ea-89c7-7456c916cc97.jpg" height=450px >
 <hr>
 
+<br />
+
 ## Contact service provider, via Email or Direct Calling
 
 <img src="https://user-images.githubusercontent.com/84455217/221398639-04b29034-02b7-4957-abeb-3ab8f199fcbe.jpg" height=450px >
 <hr>
 
-<br> <hr>
+<br />
 
-## Group Member <r> 
-## Dawit Andargachew       -  UGR/3074/12 <br> 
-## Fitsum Gedefaw          -  UGR/5537/12 <br>
-## Joseph Birara           -  UGR/5617/12 <br>
+## Group Member GitHub Profiles<r> 
+### [Dawit Andargachew](https://github.com/dawit01)
+### [Fitsum Gedefaw](https://github.com/FitsumGedefaw)
+### [Joseph Birara](https://github.com/joseph-birara)
 
-  
-<br><br>
-<hr>
 
-### Thanks !! <hr>
+<br>
+
+---
+
+### Thanks !!
