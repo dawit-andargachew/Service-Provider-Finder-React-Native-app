@@ -97,7 +97,7 @@ If the installation was successful, you should be able to run the following comm
 
 <br />
 
-# Group Member GitHub Profiles<r> 
+# Group Member GitHub Profiles <r> 
 ### [Dawit Andargachew](https://github.com/dawit01)
 ### [Fitsum Gedefaw](https://github.com/FitsumGedefaw)
 ### [Joseph Birara](https://github.com/joseph-birara)
