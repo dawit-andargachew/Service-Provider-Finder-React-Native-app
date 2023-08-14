@@ -16,8 +16,6 @@
 ### Experience the convenience and efficiency of the Service Provider Finder App for all your service needs.
 ---
 
-
-<br />
 <br />
 
 
@@ -52,18 +50,19 @@ If the installation was successful, you should be able to run the following comm
     6.1.0 // yours may be different
 ---
 
-<br />
 
 ### 🏃 Run
 
 ##### run the following command :
      npm start
 
-#### After runnig the above command, you can interact scan with QR code and interact with the application.
+#### After running the above command, the server or application will start running. You can then interact with the application by scanning a QR code and accessing its functionality.
+
 <br>
 
 
-<br />
+
+<br/>
 
 ## Here are some screen shots of the projects 
 <hr>
